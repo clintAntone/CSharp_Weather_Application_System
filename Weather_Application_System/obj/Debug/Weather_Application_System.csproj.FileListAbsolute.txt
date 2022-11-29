@@ -1,0 +1,15 @@
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\bin\Debug\Weather_Application_System.exe.config
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\bin\Debug\Weather_Application_System.exe
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\bin\Debug\Weather_Application_System.pdb
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\bin\Debug\Newtonsoft.Json.dll
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\bin\Debug\Newtonsoft.Json.xml
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.csproj.AssemblyReference.cache
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.ForecastUC.resources
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.MainForm.resources
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.Properties.Resources.resources
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.csproj.GenerateResource.cache
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.csproj.CoreCompileInputs.cache
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.csproj.CopyComplete
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.exe
+C:\Users\COLLABERA\source\repos\Weather_Application_System\Weather_Application_System\obj\Debug\Weather_Application_System.pdb
